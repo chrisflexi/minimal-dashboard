@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Página-1" id="-Teu2CuuMCORKM0P5r5j">
+    <mxGraphModel dx="2194" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-2" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=light-dark(#000000, #f00000);" vertex="1" parent="1">
+          <mxGeometry x="789" y="280" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DH8qQtTCZpwULRZTCPiA-4" target="DH8qQtTCZpwULRZTCPiA-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(6, 56, 255));&quot;&gt;MiFleximatic&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Backend: C# backend - &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));&quot;&gt;GDL-APIS&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Front-end: React - &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));&quot;&gt;GDL-LNXDBS&lt;/font&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;BD: SqlServer&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="806" y="300" width="195" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DH8qQtTCZpwULRZTCPiA-27" target="DH8qQtTCZpwULRZTCPiA-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DH8qQtTCZpwULRZTCPiA-27" target="DH8qQtTCZpwULRZTCPiA-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-27" value="Modulos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="844" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DH8qQtTCZpwULRZTCPiA-51" target="DH8qQtTCZpwULRZTCPiA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-51" value="Configuraciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="836" y="630" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DH8qQtTCZpwULRZTCPiA-53" target="DH8qQtTCZpwULRZTCPiA-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-53" value="- Modulos&lt;div&gt;- Sistema&lt;/div&gt;&lt;div&gt;- Opciones&lt;/div&gt;&lt;div&gt;- Usaurios&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="846" y="730" width="116" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DH8qQtTCZpwULRZTCPiA-56" target="DH8qQtTCZpwULRZTCPiA-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-56" value="Archivos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-58" value="- Archivos&lt;div&gt;- Descarga&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8qQtTCZpwULRZTCPiA-62" value="Conectado al SSO en el modulo de usuarios" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="717.5" width="169" height="95" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
